@@ -8,14 +8,14 @@ package main
 const (
 	versionNest                 = "0.36"
 	urlCryptoCompareTRTL        = "https://min-api.cryptocompare.com/data/price?fsym=TRTL&tsyms=USD"
-	logFileFilename             = "TurtleCoin-Nest.log"
-	urlBlockExplorer            = "https://blocks.turtle.link/"
+	logFileFilename             = "GrubMine-Nest.log"
+	urlBlockExplorer            = "http://grubmine.govps.com/GRUB-block-explorer/"
 	dbFilename                  = "settings.db"
 	numberTransactionsToDisplay = 20
 
 	// default remote node
-	defaultRemoteDaemonAddress = "public.turtlenode.io"
+	defaultRemoteDaemonAddress = "192.99.206.62"
 	defaultRemoteDaemonPort    = "11898"
-	defaultRemoteDaemonName    = "public.turtlenode.io"
+	defaultRemoteDaemonName    = "public.grubtoken.io"
 	defaultRemoteDaemonSSL     = false
 )

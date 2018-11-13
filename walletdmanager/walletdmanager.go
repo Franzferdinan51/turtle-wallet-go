@@ -7,7 +7,7 @@
 package walletdmanager
 
 import (
-	"TurtleCoin-Nest/turtlecoinwalletdrpcgo"
+	"GrubMine-Nest/turtlecoinwalletdrpcgo"
 	"bufio"
 	"io"
 	"math/rand"
